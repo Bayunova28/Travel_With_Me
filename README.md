@@ -63,7 +63,7 @@ CREATE TABLE Invoice (
 * Login & Logout
 * Signup
 * CRUD Database (Create, Read, Update & Delete)
-* Crystal Report
+* Generate File Report
 
 ## Creator
 * Elisabet Dela Marcela
