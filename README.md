@@ -6,7 +6,7 @@
 * [Creator](#creator)
 
 ## Background
-<img src="https://github.com/Bayunova28/Travel_With_Me/blob/master/UAS/cover.png" height="450" width="1100">
+<img src="https://github.com/Bayunova28/Travel_With_Me/blob/master/cover.jpg" height="450" width="1100">
 <p align="justify">TravelWithMe is an airline ticket buying and selling service. On the official website, it says that TravelWithMe is a ticket reservation system that 
 is integrated with the airline's own booking system, through trusted partners. By providing ticket transaction security as well as ease of ordering through an automated system, without having to go through manual ordering. TravelWIthMe collaborates with official travel agents for airlines that are trusted to issue tickets. This allows consumers who will order tickets to get preferred seller choice, as well as guaranteed comfort and safety. The airlines that collaborate with TravelWithMe in issuing tickets include are Merpati, Garuda, Lion Air, Air Asia. Tiger Water, etc.</p>
 
